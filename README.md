@@ -2,6 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/LnWZ2yY1dYEaA/giphy.gif" height="300">
 
+
 my name is Josh and I do coding... 👨🏻‍💻
 
 ## 📋 what am I doing?
