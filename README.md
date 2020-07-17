@@ -1,6 +1,6 @@
-# 👋 hey there! ![](https://visitor-badge.glitch.me/badge?page_id=joshlucpoll.joshlucpoll)
+# 👋 hey there! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joshlucpoll.joshlucpoll)
 
-<img align="right" src="https://media.giphy.com/media/LnWZ2yY1dYEaA/giphy.gif" height="300">
+<img align="right" src="https://media.giphy.com/media/ggX9KFCiXWcmRnyena/giphy.gif" height="300">
 
 
 my name is Josh and I do coding... 👨🏻‍💻
@@ -32,7 +32,8 @@ my name is Josh and I do coding... 👨🏻‍💻
     <a href="https://stackoverflow.com/users/10472451/joshlucpoll"><img height="40" src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>&nbsp;&nbsp;
     <a href="https://codepen.io/joshlucpoll"><img height="40" src="https://img.icons8.com/color/48/000000/codepen.png"></a>&nbsp;&nbsp;
 </p>
-
+  
+  
 <p align="right">
   <sub><sup><a href="https://icons8.com">icons by Icons8</a></sup></sub>
 </p>
