@@ -33,6 +33,7 @@ my name is Josh and I do coding... 👨🏻‍💻
     <a href="https://codepen.io/joshlucpoll"><img height="40" src="https://img.icons8.com/color/48/000000/codepen.png"></a>&nbsp;&nbsp;
 </p>
   
+<img src="https://github.com/Joshlucpoll/Joshlucpoll/blob/master/images/stat.svg" alt="Alternative Text"/>
   
 <p align="right">
   <sub><sup><a href="https://icons8.com">icons by Icons8</a></sup></sub>
