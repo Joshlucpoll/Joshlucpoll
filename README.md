@@ -24,6 +24,9 @@ my name is Josh and I do coding... 👨🏻‍💻
 </p>
 
 <br/>
+
+<img src="https://github.com/Joshlucpoll/Joshlucpoll/blob/master/images/stat.svg" alt="Joshlucpoll Wakatime Activity"/>
+
 <br/>
 <p align="center">
     <a href="mailto:info@joshlucpoll.com"><img height="40" src="https://img.icons8.com/fluent/48/000000/mail.png"></a>&nbsp;&nbsp;
@@ -32,8 +35,7 @@ my name is Josh and I do coding... 👨🏻‍💻
     <a href="https://stackoverflow.com/users/10472451/joshlucpoll"><img height="40" src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>&nbsp;&nbsp;
     <a href="https://codepen.io/joshlucpoll"><img height="40" src="https://img.icons8.com/color/48/000000/codepen.png"></a>&nbsp;&nbsp;
 </p>
-  
-<img src="https://github.com/Joshlucpoll/Joshlucpoll/blob/master/images/stat.svg" alt="Joshlucpoll Wakatime Activity"/>
+
   
 <p align="right">
   <sub><sup><a href="https://icons8.com">icons by Icons8</a></sup></sub>
