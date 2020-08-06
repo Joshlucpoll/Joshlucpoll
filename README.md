@@ -1,18 +1,18 @@
-# 👋 hey there! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joshlucpoll.joshlucpoll)
+# 👋 Hey there! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joshlucpoll.joshlucpoll)
 
 <img align="right" src="https://media.giphy.com/media/ggX9KFCiXWcmRnyena/giphy.gif" height="300">
 
 
 my name is Josh and I do coding... 👨🏻‍💻
 
-## 📋 what am I doing?
+## 📋 What am I Doing?
 
-* 👷 building my [website](https://joshlucpoll.com)
-* 🔨 developing Tabletime App
-* 🔤 learning C++
-* 🏠 quarantining
+* 👷 Building my [website](https://joshlucpoll.com)
+* 🔨 Developing Tabletime App
+* 🔤 Learning C++
+* 🏠 Quarantining
 
-## 🔠 languages/frameworks
+## 🔠 Languages/Frameworks
 <p align="left">
     <a href="https://www.python.org/"><img height="25" src="https://img.icons8.com/color/2x/python.png"></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="25" src="https://img.icons8.com/color/2x/javascript.png"></a>&nbsp;&nbsp;
