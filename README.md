@@ -29,11 +29,11 @@ my name is Josh and I do coding... 👨🏻‍💻
 
 <br/>
 <p align="center">
-    <a href="mailto:info@joshlucpoll.com"><img height="40" src="https://img.icons8.com/fluent/48/000000/mail.png"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/joshlucpoll"><img height="40" src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/joshlucpoll"><img height="40" src="https://crhenr.xyz/imgs/logos/linkedin_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/10472451/joshlucpoll"><img height="40" src="https://img.icons8.com/color/48/000000/stackoverflow.png"></a>&nbsp;&nbsp;
-    <a href="https://codepen.io/joshlucpoll"><img height="40" src="https://img.icons8.com/color/48/000000/codepen.png"></a>&nbsp;&nbsp;
+    <a href="mailto:info@joshlucpoll.com"><img height="40" src="https://img.icons8.com/fluent/480/000000/mail.png"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/joshlucpoll"><img height="40" src="https://img.icons8.com/fluent/480/000000/twitter.png"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/joshlucpoll"><img height="40" src="https://img.icons8.com/color/480/000000/linkedin.png"></a>&nbsp;&nbsp; 
+    <a href="https://stackoverflow.com/users/10472451/joshlucpoll"><img height="40" src="https://img.icons8.com/color/480/000000/stackoverflow.png"></a>&nbsp;&nbsp;
+    <a href="https://codepen.io/joshlucpoll"><img height="40" src="https://img.icons8.com/color/480/000000/codepen.png"></a>&nbsp;&nbsp;
     <a href="https://codesandbox.io/u/Joshlucpoll"><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codesandbox-512.png"></a>&nbsp;&nbsp;
 </p>
 
