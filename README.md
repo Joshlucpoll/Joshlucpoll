@@ -25,7 +25,8 @@ My name is Josh and I do coding... 👨🏻‍💻
 
 <br/>
 
-<img src="https://github.com/Joshlucpoll/Joshlucpoll/blob/master/images/stat.svg" alt="Joshlucpoll Wakatime Activity"/>
+<img src="https://wakatime.com/share/@Joshlucpoll/e78b307a-f078-4e85-a99d-f110238ad8a8.svg" alt="Joshlucpoll Wakatime Activity"/>
+<img src="https://wakatime.com/share/@Joshlucpoll/fd6a55b0-a785-4ab4-83a4-112956e4fd5c.svg" alt="Joshlucpoll Wakatime Activity"/>
 
 <br/>
 <p align="center">
