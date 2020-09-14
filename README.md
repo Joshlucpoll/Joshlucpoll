@@ -3,16 +3,16 @@
 <img align="right" src="https://media.giphy.com/media/ggX9KFCiXWcmRnyena/giphy.gif" height="300">
 
 
-My name is Josh and I do coding... 👨🏻‍💻
+My name is Josh and I do coding! Currently focusing on web development...
 
-## 📋 What am I Doing?
+## What am I Doing?
 
-* 👷 Building my [website](https://joshlucpoll.com)
-* 🔨 Developing Tabletime App
-* 🔤 Learning C++
-* 🏠 Quarantining
+* Building my [website](https://joshlucpoll.com)
+* Developing Tabletime App
+* Learning C++
+* Quarantining
 
-## 🔠 Languages/Frameworks
+## Languages/Frameworks
 <p align="left">
     <a href="https://www.python.org/"><img height="25" src="https://img.icons8.com/color/2x/python.png"></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="25" src="https://img.icons8.com/color/2x/javascript.png"></a>&nbsp;&nbsp;
