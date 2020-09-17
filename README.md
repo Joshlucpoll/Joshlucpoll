@@ -19,6 +19,7 @@ My name is Josh and I do coding! Currently focusing on web development...
     <a href="https://www.cplusplus.com/"><img height="25" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></a>&nbsp;&nbsp;
     <a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/"><img height="25" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"></a>&nbsp;&nbsp;
     <a href="https://reactjs.org/"><img height="25" src="https://img.icons8.com/officel/2x/react.png"></a>&nbsp;&nbsp;
+    <a href="https://vuejs.org/"><img height="25" src="https://img.icons8.com/color/48/000000/vue-js.png"></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="25" src="https://img.icons8.com/color/2x/html-5.png"></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="25" src="https://img.icons8.com/color/2x/css3.png"></a>&nbsp;&nbsp;
 </p>
