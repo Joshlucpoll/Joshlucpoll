@@ -6,7 +6,6 @@
 My name is Josh and I do coding! Currently focusing on web development...
 
 ## What am I Doing?
-
 * Building my [Website](https://joshlucpoll.com)
 * Developing Tabletime App
 * Learning C++
