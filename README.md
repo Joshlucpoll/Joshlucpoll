@@ -25,10 +25,12 @@ My name is Josh and I do coding! Currently focusing on web development...
 </p>
 
 <br/>
-
-<img src="https://wakatime.com/share/@Joshlucpoll/e78b307a-f078-4e85-a99d-f110238ad8a8.svg" alt="Joshlucpoll Wakatime Activity"/>
-<img src="https://wakatime.com/share/@Joshlucpoll/fd6a55b0-a785-4ab4-83a4-112956e4fd5c.svg" alt="Joshlucpoll Wakatime Activity"/>
-
+<details>
+    <summary>Code Stats 📈</summary>
+    <img src="https://wakatime.com/share/@Joshlucpoll/e78b307a-f078-4e85-a99d-f110238ad8a8.svg" alt="Joshlucpoll Wakatime Activity"/>
+    <img src="https://wakatime.com/share/@Joshlucpoll/fd6a55b0-a785-4ab4-83a4-112956e4fd5c.svg" alt="Joshlucpoll Wakatime Activity"/>
+</details>
+    
 <br/>
 <p align="center">
     <a href="mailto:info@joshlucpoll.com"><img height="40" src="https://img.icons8.com/fluent/480/000000/mail.png"></a>&nbsp;&nbsp;
