@@ -15,9 +15,11 @@ My name is Josh and I do coding! Currently focusing on web development...
 <p align="left">
     <a href="https://www.python.org/"><img height="25" src="https://img.icons8.com/color/2x/python.png"></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="25" src="https://img.icons8.com/color/2x/javascript.png"></a>&nbsp;&nbsp;
+    <a href="https://dart.dev/"><img height="25" src="https://img.icons8.com/color/48/000000/dart.png"></a>&nbsp;&nbsp;
     <a href="https://www.cplusplus.com/"><img height="25" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></a>&nbsp;&nbsp;
     <a href="https://docs.oracle.com/javase/7/docs/technotes/guides/language/"><img height="25" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"></a>&nbsp;&nbsp;
     <a href="https://reactjs.org/"><img height="25" src="https://img.icons8.com/officel/2x/react.png"></a>&nbsp;&nbsp;
+    <a href="https://flutter.dev/"><img height="25" src="https://img.icons8.com/color/48/000000/flutter.png"></a>&nbsp;&nbsp;
     <a href="https://vuejs.org/"><img height="25" src="https://img.icons8.com/color/48/000000/vue-js.png"></a>&nbsp;&nbsp;
     <a href="https://angular.io/"><img height="25" src="https://img.icons8.com/color/48/000000/angularjs.png"></a>&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="25" src="https://img.icons8.com/color/2x/html-5.png"></a>&nbsp;&nbsp;
