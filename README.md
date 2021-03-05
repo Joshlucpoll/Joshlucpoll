@@ -1,4 +1,4 @@
-# 👋 Hey there! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joshlucpoll.joshlucpoll)
+# 👋 Hey there! ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joshlucpoll.joshlucpoll) 
 
 <img align="right" src="https://media.giphy.com/media/ggX9KFCiXWcmRnyena/giphy.gif" height="300">
 
