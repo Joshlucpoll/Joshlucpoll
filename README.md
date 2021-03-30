@@ -9,7 +9,6 @@ My name is Josh and I do coding! Currently focusing on web development...
 * Building my [Website](https://joshlucpoll.com)
 * Developing [Tabletime App](https://my.tabletime.app)
 * Learning C++
-* Quarantining
 
 ## Languages/Frameworks
 <p align="left">
