@@ -26,6 +26,8 @@ My name is Josh and I do coding! Currently focusing on web development...
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="25" src="https://img.icons8.com/color/2x/css3.png"></a>&nbsp;&nbsp;
 </p>
 
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=joshlucpoll&show_icons=true&include_all_commits=true&theme=dark&bg_color=330,0F2027,2C5364)
 
 <br/>
