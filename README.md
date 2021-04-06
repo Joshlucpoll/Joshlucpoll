@@ -5,6 +5,8 @@
 
 My name is Josh and I do coding! Currently focusing on web development...
 
+![](https://github-readme-stats.vercel.app/api?username=joshlucpoll&show_icons=true&include_all_commits=true&theme=dark&bg_color=330,0F2027,2C5364)
+
 ## What am I Doing?
 * Building my [Website](https://joshlucpoll.com)
 * Developing [Tabletime App](https://my.tabletime.app)
