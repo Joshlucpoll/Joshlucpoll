@@ -8,7 +8,7 @@ My name is Josh and I do coding! Currently focusing on web development...
 
 ## What am I Doing?
 * Building my [Website V2 (neo)](https://neo.joshlucpoll.com)
-* Developing [Tabletime App](https://tabletime.app)
+* Finishing up [Tabletime App](https://tabletime.app)
 * Learning C++
 
 ## Languages/Frameworks
